@@ -16,7 +16,7 @@ Home of the clergy ([[Father Miroslav]], [[Merrick]], the [[High Priestess]]). T
 
 ## Inhabitants
 - [[Merrick]]: returned here to manage internal threats.
-- [[Penning]]: shadowing Merrick, unseen.
+- [[Pennig]]: shadowing Merrick, unseen.
 - [[Father Miroslav]]: formerly; now dead, body to be retrieved.
 
 ## Events

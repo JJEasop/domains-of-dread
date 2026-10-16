@@ -15,4 +15,4 @@ parent: "Unknown"
 > ⚠️ Spelled Vallaki, Valaki and Velaki. Confirm.
 
 ## Overview
-A town west of the [[Gallows Crossroads]] (the faster route to [[Zidenberg]]). The late [[Burgermeister of Barovia]] was writing to its Burgermeister for protection for [[Ireena]].
+A town west of the [[Gallows Crossroads]] (the faster route to [[Zidenberg]]). The late [[Burgermeister of Barovia]] was writing to its Burgermeister for protection for [[Ireena Kolyana]].

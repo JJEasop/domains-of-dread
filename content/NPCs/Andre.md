@@ -21,7 +21,7 @@ first_appearance: Summary 1 (mentioned only)
 The **Abbot** of the [[Barovia Monastery]]. [[Ophelia]] seeks revenge on him (and [[David]]) over the death of her daughter [[Mara Blackford]].
 
 ## Events
-- Earlier suspected by the party along with [[David]], [[Merrick]], [[Father Miroslav]] and possibly [[Ireena]].
+- Earlier suspected by the party along with [[David]], [[Merrick]], [[Father Miroslav]] and possibly [[Ireena Kolyana]].
 - Confronted by the party and [[Merrick]]. The party confirmed that Mara's cairn was **empty and the grave disturbed**, which undercut his denials.
 - **Defrocked** by Merrick, who took his holy symbol.
 - Protested locking the library and abandoning its priceless books. Merrick's compromise: lock it now and fetch the books later by runner.

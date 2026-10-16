@@ -20,7 +20,7 @@ first_appearance: Summary 1
 # Merrick
 
 ## Overview
-**Father Merrick**, a cleric of the [[Barovia Monastery]] and the party's main ally. He asked them to investigate the [[Waterfall Cave]] while he handled matters at the monastery, and was shadowed by [[Penning]].
+**Father Merrick**, a cleric of the [[Barovia Monastery]] and the party's main ally. He asked them to investigate the [[Waterfall Cave]] while he handled matters at the monastery, and was shadowed by [[Pennig]].
 
 ## Key Actions
 - Collected [[Father Miroslav]]'s body and wrote a signed letter to the [[High Priestess]].
@@ -32,7 +32,7 @@ first_appearance: Summary 1
 - Plans to hire wagons from the nearby **Vistani camp**.
 
 ## Summary 4–5: Barovia and the Road
-- Made holy water and led the restoration ritual that saved [[Ireena]]. Afterward, exhausted, he gave the party a **large coin stamped with Zidenberg's sun** as a line of credit, to be kept safe and returned.
+- Made holy water and led the restoration ritual that saved [[Ireena Kolyana]]. Afterward, exhausted, he gave the party a **large coin stamped with Zidenberg's sun** as a line of credit, to be kept safe and returned.
 - Warded the church for the night, and officiated the [[Burgermeister of Barovia]]'s funeral because Alexei is inexperienced.
 - Will place **protective wards on the wagon** carrying Ireena and [[Gertrude (Barovia Monastery Asylum)|Gertrude]].
 - Travels with the party as an escort. [[Andre]] and [[David]] are "technically voluntary" prisoners.
@@ -45,4 +45,4 @@ first_appearance: Summary 1
 
 ## Hooks
 - ⚠️ **Alignment question to revisit:** a good cleric can prepare *Inflict Wounds*, but it is commonly associated with evil casters.
-- 💡 *Suggested:* The earlier suspicion of him ([[Andre]], [[David]], Merrick, [[Father Miroslav]], possibly [[Ireena]]) may be worth revisiting.
+- 💡 *Suggested:* The earlier suspicion of him ([[Andre]], [[David]], Merrick, [[Father Miroslav]], possibly [[Ireena Kolyana]]) may be worth revisiting.

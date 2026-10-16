@@ -18,7 +18,7 @@ first_appearance: Summary 4
 > Also spelled Izmark and Esmark in the session summaries (kept as aliases).
 
 ## Overview
-Son and **heir** of the [[Burgermeister of Barovia]], and brother of [[Ireena]]. After his father's murder he became leader of Barovia.
+Son and **heir** of the [[Burgermeister of Barovia]], and brother of [[Ireena Kolyana]]. After his father's murder he became leader of Barovia.
 
 ## Events
 - Left a hasty note under the church door begging for help for Ireena.

@@ -17,11 +17,11 @@ A major crossroads north of [[Barovia]].
 ## Signs
 - **West:** Ravenloft and [[Vallaki]]
 - **South:** [[Immol]] and Stillbach
-- **East:** back to Barovia and Sibley
+- **East:** back to [[Barovia]] and [[Sibiu]].
 - **North (handwritten):** [[Tser Pool Encampment]]
 
 ## Gallows and Graveyard
-A wooden platform with a two-noose gallows, and behind it a neglected cast-iron-fenced **criminal graveyard** with unmarked graves. [[Ireena]] explained that criminals are buried here, away from town, to keep them from coming back to haunt the living.
+A wooden platform with a two-noose gallows, and behind it a neglected cast-iron-fenced **criminal graveyard** with unmarked graves. [[Ireena Kolyana]] explained that criminals are buried here, away from town, to keep them from coming back to haunt the living.
 
 ## The Hanged Apparition
 - As the party turned north, a **dead body suddenly hung** from the gallows.

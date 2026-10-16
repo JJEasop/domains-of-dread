@@ -19,7 +19,7 @@ first_appearance: Summary 1 (mentioned only)
 A cleric of the [[Barovia Monastery]] held culpable, with [[Andre]], for [[Mara Blackford]]'s death. [[Ophelia]] seeks revenge on him.
 
 ## Events
-- Earlier suspected by the party along with [[Andre]], [[Merrick]], [[Father Miroslav]] and possibly [[Ireena]].
+- Earlier suspected by the party along with [[Andre]], [[Merrick]], [[Father Miroslav]] and possibly [[Ireena Kolyana]].
 - **Defrocked** by [[Merrick]], who took his holy symbol.
 - During the wolf ambush on the mountain road he **enthralled two wolves**, holding them in place with liturgical recitation.
 - Being escorted to [[Zidenberg]] to face the [[High Priestess]].

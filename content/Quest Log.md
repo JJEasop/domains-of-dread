@@ -14,7 +14,7 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 ## Active Quests
 
 ### Protect Ireena
-- [ ] Get [[Ireena]] to safety. The late [[Burgermeister of Barovia]] was asking [[Vallaki]]'s Burgermeister for protection for her.
+- [ ] Get [[Ireena Kolyana]] to safety. The late [[Burgermeister of Barovia]] was asking [[Vallaki]]'s Burgermeister for protection for her.
 - [ ] Find out who or what [[The Vampire]] is.
 
 ### Journey to Zidenberg
@@ -29,9 +29,10 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 - [ ] Find out what Ophelia plans for [[Mara Blackford]]'s preserved body.
 
 ### Barovia
-- [ ] Help [[Ismark]] find an heir and a household minder. The party suggested [[Mary]].
-- [ ] Find Mary's missing daughter, [[Gertrude (Missing Girl of Barovia)|Gertrude]].
+- [ ] Help [[Ismark Kolyanovich]] find an heir and a household minder. The party suggested [[Mary]].
+- [ ] Find Mary's missing daughter, [[Gertrude (Missing Girl of Barovia)|Gertrude]]. Last information we had she was with [[Hawthorne]]'s sisterhood. 
 - [ ] Support Ismark as he organizes Barovia's militia.
+- [ ] [[Granny]]'s Dream Pastries, Granny comes up from one of the farms to the south of Barovia to sell her pastries. They seem to have properties similar to narcotics.  
 
 ### Research
 - [ ] Visit the archivist [[Felix Meyer]] in [[Immol]] to look into the events of 787.
@@ -42,7 +43,7 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 - [ ] Is the ghost rider's crest really that of the **Von Holtz family**?
 - [ ] What was the hanged apparition at the [[Gallows Crossroads]]?
 - [ ] Why does the scent of roses keep turning up: Ophelia's kitchen, the [[Crypt]] and the [[Whistling Door Tunnel]]?
-
+- [ ] [[Hawthorne]] has suggested that we would be able to off load the deed for [[Sibiu]] and the associated mill acquired in the [[Durst House]]
 ## Completed
 - [x] Evacuate the [[Barovia Monastery]] and bring the caravan safely to [[Barovia]].
 - [x] Negotiate with [[Ophelia]] to spare [[Olaf]] and [[Levi]].

@@ -21,14 +21,14 @@ The village at the foot of the mountain below the [[Barovia Monastery]]. The [[C
 ## Places and People
 - [[Barovia Church]], [[Barovia Churchyard]], the Burgermeister's estate
 - [[Billdrath]] (Mercantile), [[Geralt]] (tailor), [[Doctor Donovich]], a blacksmith (sold the party two pounds of nails for 1 gp) and an innkeeper (both unnamed)
-- Leaders: [[Ismark]]; the late [[Burgermeister of Barovia]]
+- Leaders: [[Ismark Kolyanovich]]; the late [[Burgermeister of Barovia]]
 
 ## Events
-- A vampire is stalking the town: see [[The Vampire]], [[Ireena]].
+- A vampire is stalking the town: see [[The Vampire]], [[Ireena Kolyana]].
 - The Burgermeister was murdered and buried in the family mausoleum.
 - The 787 grave in the churchyard was found exhumed: [[Kolyan Vasilyev]].
 - The party departed north to the [[Gallows Crossroads]] and [[Tser Pool Encampment]].
 
 ## Hooks
 - A **tax collector** visited three days before the murder.
-- Barovia's militia is being organized by [[Ismark]].
+- Barovia's militia is being organized by [[Ismark Kolyanovich]].

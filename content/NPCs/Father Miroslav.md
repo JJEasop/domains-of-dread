@@ -28,7 +28,7 @@ His estimated time of death coincides with the **ghost procession** the party wi
 
 ## Theories
 - Possession, or a broken spell.
-- The party was suspicious of him before he died (see [[Merrick]]'s circle of suspects: [[Andre]], [[David]], Miroslav, possibly [[Ireena]]).
+- The party was suspicious of him before he died (see [[Merrick]]'s circle of suspects: [[Andre]], [[David]], Miroslav, possibly [[Ireena Kolyana]]).
 
 ## Aftermath
 - [[Merrick]] returned to the monastery to manage internal threats, write a signed letter to the [[High Priestess]], and arrange retrieval of the body.

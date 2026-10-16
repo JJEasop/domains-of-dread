@@ -23,4 +23,4 @@ A past Burgermeister of Barovia ("son of Vasily"). Died in **787**. Ledger notes
 The party found his grave in the [[Barovia Churchyard]] **freshly exhumed with the body missing**. The headstone reads 787. The coffin was mostly decomposed and the soil recently displaced. [[Merrick]] thinks the grave predates the family mausoleum.
 
 ## Theory
-Lenorden suspects a cycle: a young noblewoman is targeted for transformation, and when the plan fails, regional calamity follows. See [[Ireena]].
+Lenorden suspects a cycle: a young noblewoman is targeted for transformation, and when the plan fails, regional calamity follows. See [[Ireena Kolyana]].
