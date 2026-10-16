@@ -4,6 +4,10 @@ title: Home
 
 Welcome, travelers, to the land of mists. This wiki records the people and places the party has met in Barovia.
 
+## Quests
+
+What the party is working on, and the questions still unanswered: see the [[Quest Log]].
+
 ## Places
 
 Start with the village of [[Barovia]], the [[Barovia Monastery]] above it, or the town of [[Vallaki]]. The full list is in the [[Locations]] folder.
