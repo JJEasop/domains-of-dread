@@ -15,6 +15,7 @@ first_appearance: Unknown
 
 ## Overview
 Thornboldt, called **Thorn**, is a **ghost** the party met in the [[Durst House]], always seen with [[Rosavalda Durst]].
+Youngest child of [[Mr. Durst]] and [[Mrs. Durst]]
 
 ## Events
 - The party found his body, with Rose's, on the fourth floor.
