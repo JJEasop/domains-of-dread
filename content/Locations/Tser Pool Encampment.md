@@ -44,7 +44,7 @@ Buy a wagon and draft animals for the journey south.
 - Morning: Linnorden scribed *Detect Thoughts* and *Obscuring Mist*.
 
 ### The Trade
-- **Bought:** **two vardos**, a covered wagon (with fitted cover) and **two draft horses**.
+- **Bought:** **two vardos** and **two draft horses** (no wagon).
 - **Paid:** wine, a tent, torches (incl. an ever-burning torch), a climber's kit, two pounds of nails and Pip's unopened **keg of Longbottom leaf**. The party **kept its three healing potions**; the silver jewelry box was refused and returned.
 - A DC 22 search of the vardo found a **hidden book under a bench seat**.
 

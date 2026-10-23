@@ -23,5 +23,5 @@ The **male leader/captain** of the Vistani caravan at the [[Tser Pool Encampment
 ## Events
 - [[Summary 6]]: Greeted the party and stressed **Vistani hospitality and storytelling** tradition.
 - Confirmed the nightly **ghost procession** from [[Barovia]] climbs past the waterfall toward [[Castle Ravenloft]].
-- Traded the party **two vardos**, a **covered wagon** and **two draft horses**. After theatrical haggling ("Are you selling me glue?") he accepted wine, a tent, torches, a climber's kit, nails and Pip's **keg of Longbottom leaf**. He refused the silver jewelry box.
+- Traded the party **two vardos** and **two draft horses**. After theatrical haggling ("Are you selling me glue?") he accepted wine, a tent, torches, a climber's kit, nails and Pip's **keg of Longbottom leaf**. He refused the silver jewelry box.
 - Showed **boyish mischief** during the deal; a toddler scolded him, "Grandpa, don't be mean."

@@ -66,7 +66,7 @@ See [[Tarokka Reading (Summary 6)]].
 - [ ] Is "the Lord's castle" in the Sasha tale [[Castle Ravenloft]]? What treasures are in its crypt?
 
 ## Completed
-- [x] Buy a wagon and draft animals at the [[Tser Pool Encampment]]. Got two vardos, a covered wagon and two draft horses from [[Jordi]] ([[Summary 6]]).
+- [x] Buy a wagon and draft animals at the [[Tser Pool Encampment]]. Got two vardos and two draft horses from [[Jordi]] ([[Summary 6]]).
 - [x] Where does the ghost procession go? Past the waterfall toward [[Castle Ravenloft]] ([[Summary 6]]).
 - [x] Evacuate the [[Barovia Monastery]] and bring the caravan safely to [[Barovia]].
 - [x] Negotiate with [[Ophelia]] to spare [[Olaf]] and [[Levi]].
