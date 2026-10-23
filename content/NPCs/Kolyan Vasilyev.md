@@ -12,7 +12,7 @@ first_appearance: Summary 5
 # Kolyan Vasilyev
 
 ## Overview
-A past Burgermeister of Barovia ("son of Vasily"). Died in **787**. Ledger notes copied by Lenorden say:
+A past Burgermeister of Barovia ("son of Vasily"). Died in **787**. Ledger notes copied by Linnorden say:
 
 - He arranged his daughter [[Sophia Kolyana]]'s marriage to the **Burgermeister of [[Immol]]**.
 - She died of a "wasting illness" a few weeks before harvest, after two days of languishing, her passing "eased by the local father."
@@ -23,4 +23,4 @@ A past Burgermeister of Barovia ("son of Vasily"). Died in **787**. Ledger notes
 The party found his grave in the [[Barovia Churchyard]] **freshly exhumed with the body missing**. The headstone reads 787. The coffin was mostly decomposed and the soil recently displaced. [[Merrick]] thinks the grave predates the family mausoleum.
 
 ## Theory
-Lenorden suspects a cycle: a young noblewoman is targeted for transformation, and when the plan fails, regional calamity follows. See [[Ireena Kolyana]].
+Linnorden suspects a cycle: a young noblewoman is targeted for transformation, and when the plan fails, regional calamity follows. See [[Ireena Kolyana]].

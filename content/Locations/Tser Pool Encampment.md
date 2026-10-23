@@ -34,17 +34,17 @@ Buy a wagon and draft animals for the journey south.
 - Instruments: violins, a viola, lutes and a **modern-style acoustic guitar**. No bagpipes, but a chanter-like drone was heard.
 
 ### People
-- [[Jordi]], the captain (💡 *Suggested:* the elder captain above), [[Vadoma]], the elder, and [[Marcella (Vistani Storyteller)|Marcella]], the storyteller.
+- [[Jordi]], the captain (the elder captain who welcomed the party on arrival), [[Vadoma]], the elder, and [[Marcella (Vistani Storyteller)|Marcella]], the storyteller.
 
 ### Events
 - [[Summary 6]]: Jordi confirmed the ghost procession from [[Barovia]] climbs past the waterfall to [[Castle Ravenloft]].
 - Marcella told the tales of [[Gabriella (Vistani Legend)|Gabriella]] and [[Malocchio]], of [[Sasha (Monster Hunter Priest)|Sasha]], and of [[Vistan]] and [[Caldresh]].
 - Vadoma gave a private Tarokka reading: see [[Tarokka Reading (Summary 6)]].
 - Long rest. One nightmare: the deck of a **sinking galley**, loved ones bound to the masts.
-- Morning: Lenorden scribed *Detect Thoughts* and *Obscuring Mist*.
+- Morning: Linnorden scribed *Detect Thoughts* and *Obscuring Mist*.
 
 ### The Trade
-- **Bought:** a vardo, a covered wagon (with fitted cover) and **two draft horses**.
+- **Bought:** **two vardos**, a covered wagon (with fitted cover) and **two draft horses**.
 - **Paid:** wine, a tent, torches (incl. an ever-burning torch), a climber's kit, two pounds of nails and Pip's unopened **keg of Longbottom leaf**. The party **kept its three healing potions**; the silver jewelry box was refused and returned.
 - A DC 22 search of the vardo found a **hidden book under a bench seat**.
 

@@ -25,7 +25,7 @@ first_appearance: Summary 1 (mentioned only)
 The **daughter of the [[Burgermeister of Barovia]]** and sister of [[Ismark Kolyanovich]]. A vampire bit her twice. Per local lore she had to avoid a third bite across **three consecutive nights**. The third night passed unbitten, her colour returned, and she is recovering, though tired, grieving and disoriented without her home.
 
 ## Vampire Attacks
-- Two small puncture marks on her neck, identified by Lenorden. See [[The Vampire]].
+- Two small puncture marks on her neck, identified by Linnorden. See [[The Vampire]].
 - Moved to the [[Barovia Church]] under wards, where [[Merrick]] performed a restoration ritual.
 - The vampire searched her room after failing to breach the church.
 - Her father was killed while writing to the Burgermeister of [[Vallaki]] asking protection for her.

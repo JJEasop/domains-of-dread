@@ -26,4 +26,4 @@ A Vistani seer the party met on **night one**, called "Auntie." Elder sister of 
 ## Events
 - [[Summary 6]]: At the [[Tser Pool Encampment]] the party saw a pipe made of the same wood as hers: **fine-grained, extremely dark, reddish tint, metallic glimmer**.
 - Vadoma confirmed Eva is her elder sister.
-- ⚠️ Where she is now, and what happened on night one, is not in the wiki yet.
+- Current location unknown.

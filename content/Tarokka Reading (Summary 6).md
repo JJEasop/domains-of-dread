@@ -19,7 +19,7 @@ Given by [[Vadoma]] at the [[Tser Pool Encampment]] in [[Summary 6]], to the fou
 | Michael | Eight of Coins (The Tax Collector) | "My people have what you seek." A missing child holds the key. |
 | Pip | Five of Coins (The Guild Member) | A dark room full of bottles: the tomb of a guild member. Treasure there. |
 | Lucia | Six of Swords (The Sorcerer) | Find the mad dog's crypt. Treasure beneath blackened bones. |
-| Lenorden | The Tempter | Another child, perhaps the same. Hurry. **Do not lose her in the water.** (A warning-command.) |
+| Linnorden | The Tempter | Another child, perhaps the same. Hurry. **Do not lose her in the water.** (A warning-command.) |
 
 ## Group Cross
 | Position | Card | Reading |
@@ -34,8 +34,4 @@ Given by [[Vadoma]] at the [[Tser Pool Encampment]] in [[Summary 6]], to the fou
 - **Five of Pentacles (The Elementalist):** someone who knows a place "where sickness and madness are bred, where children once cried," and will lead the party there.
 - **The Innocent.**
 
-## Notes
-- 💡 *Suggested:* the place of sickness and madness may be the [[Sanatorium]] or the [[Barovia Monastery]] asylum.
-- 💡 *Suggested:* the missing child in Michael's and Lenorden's readings may be [[Gertrude (Missing Girl of Barovia)|Gertrude]].
-- 💡 *Suggested:* The Tax Collector card may tie to the **tax collector** who visited [[Barovia]].
-- 💡 *Suggested:* "the one who sees all" may be [[Madam Eva]].
+All readings are tracked as open questions in the [[Quest Log]].

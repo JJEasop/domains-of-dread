@@ -28,5 +28,4 @@ An unidentified vampire stalking [[Ireena Kolyana]] in [[Barovia]]. **Tall, gaun
 ## Leads
 - A **tax collector** visited three days before the party returned. 💡 *Suggested:* the same person?
 - The ghost procession's rider had a horse whose barding bore a crest matching the carriage associated with the **Von Holtz family**. Link unconfirmed.
-- [[Summary 6]]: Michael drew **The Tax Collector** in [[Vadoma]]'s reading. 💡 *Suggested:* a link to the tax collector. See [[Tarokka Reading (Summary 6)]].
-- The ghost procession heads toward [[Castle Ravenloft]]. 💡 *Suggested:* the vampire may be tied to it.
+- [[Summary 6]]: The ghost procession heads toward [[Castle Ravenloft]]. 💡 *Suggested:* the vampire may be tied to it.

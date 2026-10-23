@@ -26,7 +26,7 @@ Father of [[Ismark Kolyanovich]] and [[Ireena Kolyana]]. Murdered overnight in h
 - Villagers were stoic, the children more visibly upset.
 
 ## Records
-His study holds multigenerational **ledgers that double as journals and almanacs**: landholding, agriculture, forestry, animal husbandry. No direct texts on vampirism, but Lenorden copied key notes on **787**: see [[Kolyan Vasilyev]] and [[Sophia Kolyana]].
+His study holds multigenerational **ledgers that double as journals and almanacs**: landholding, agriculture, forestry, animal husbandry. No direct texts on vampirism, but Linnorden copied key notes on **787**: see [[Kolyan Vasilyev]] and [[Sophia Kolyana]].
 
 ## Notes
 - ⚠️ Is "Boris" his name? Confirm.
