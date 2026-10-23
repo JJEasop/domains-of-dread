@@ -37,6 +37,9 @@ The **daughter of the [[Burgermeister of Barovia]]** and sister of [[Ismark Koly
 ## Journey
 Escorted with [[Gertrude (Barovia Monastery Asylum)|Gertrude]], [[Merrick]], [[Andre]] and [[David]], south toward her **sisters in [[Immol]]** ([[Hawthorne]]'s advice: south is safer than north). Lucia likely rides with her. [[Merrick]] will ward the wagon. Currently at the [[Tser Pool Encampment]] to buy a wagon.
 
+## Tarokka Reading
+- [[Summary 6]]: [[Vadoma]] read for her at the [[Tser Pool Encampment]]. Her card: **Eight of Pentacles (The Necromancer)**: "a woman hanging over a roaring fire. Find her, and you will find what you seek." See [[Tarokka Reading (Summary 6)]].
+
 ## Connections
 - Her family history may link to the 787 events: see [[Kolyan Vasilyev]] and [[Sophia Kolyana]].
 - Earlier the party briefly suspected her (see [[Andre]]).

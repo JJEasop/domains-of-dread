@@ -7,7 +7,7 @@ $site = $PSScriptRoot
 Set-Location $site
 
 # Mirror the vault into content/, keeping the site's own home page.
-robocopy $vault "$site\content" /MIR /XD .obsidian .trash /XF index.md /NFL /NDL /NJH /NJS /NP | Out-Null
+robocopy $vault "$site\content" /MIR /XD .obsidian .trash .claude /XF index.md /NFL /NDL /NJH /NJS /NP | Out-Null
 if ($LASTEXITCODE -ge 8) { Write-Error "Copying the vault failed (robocopy exit $LASTEXITCODE)."; exit 1 }
 
 git add -A
