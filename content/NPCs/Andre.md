@@ -6,6 +6,7 @@ tags:
   - status/in-custody
 aliases:
   - The Abbot
+  - Former Abbot
   - Father Andre
   - Tweedle twins
 location: "[[Curly Cross Inn]]"
@@ -22,7 +23,7 @@ first_appearance: Summary 1 (mentioned only)
 # Andre
 
 ## Overview
-The **Abbot** of the [[Barovia Monastery]]. [[Ophelia]] seeks revenge on him (and [[David]]) over the death of her daughter [[Mara Blackford]].
+The **former Abbot** of the [[Barovia Monastery]] (defrocked). [[Ophelia]] seeks revenge on him (and [[David]]) over the death of her daughter [[Mara Blackford]].
 
 ## Events
 - Earlier suspected by the party along with [[David]], [[Merrick]], [[Father Miroslav]] and possibly [[Ireena Kolyana]].
@@ -36,7 +37,7 @@ The **Abbot** of the [[Barovia Monastery]]. [[Ophelia]] seeks revenge on him (an
 Travels with the party in "quasi-prisoner" status, "technically voluntary," toward [[Zidenberg]].
 
 ## Summary 7: Road to Immol
-> ⚠️ [[Summary 7]] calls Andre and [[David]] "the two junior clerics." Earlier notes have Andre as the **Abbot**. Confirm.
+> [[Summary 7]] calls Andre and [[David]] "the two junior clerics." Confirmed: Andre is the **former Abbot**, defrocked by [[Merrick]].
 - Rode in **wagon 2** with [[Merrick]]. He and David are now nicknamed the **"Tweedle twins."**
 - After the wolf ambush on the [[Road to Immol]], went back with Pip, David and a horse to **retrieve [[Nastazya]]'s wagon**.
 - Shared Room 2 at the [[Curly Cross Inn]] with Merrick and David.
