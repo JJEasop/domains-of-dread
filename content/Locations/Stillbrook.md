@@ -10,7 +10,7 @@ parent: "Unknown"
 
 # Stillbrook
 
-> ⚠️ Spelling from [[Summary 7]] only. Location type assumed. Confirm.
+> ⚠️ Location type (village) assumed. Confirm.
 
 ## Overview
 A place mentioned by patrons at the [[Curly Cross Inn]]. Not visited.

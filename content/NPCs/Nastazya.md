@@ -15,8 +15,6 @@ first_appearance: Summary 7
 
 # Nastazya
 
-> ⚠️ Spelling from [[Summary 7]] only. Confirm.
-
 ## Overview
 A woman the party rescued from a wolf attack on the [[Road to Immol]]. She says she is from [[Rottermegen]], in the north, travelling with her brother to sell grain in [[Immol]]. The party doubts her story.
 

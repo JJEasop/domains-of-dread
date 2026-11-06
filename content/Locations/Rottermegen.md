@@ -10,8 +10,6 @@ parent: "Unknown"
 
 # Rottermegen
 
-> ⚠️ Spelling from [[Summary 7]] only. Confirm.
-
 ## Overview
 A **village to the north**, named by [[Nastazya]] as her home. Not visited.
 
