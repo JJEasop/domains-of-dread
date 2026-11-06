@@ -20,4 +20,4 @@ The **armed bodyguard** of the [[Scholar (Curly Cross Inn)|scholarly noble]] at 
 
 ## Events
 - [[Summary 7]]: Lucia's *Detect Evil*: **ordinary (lowercase) evil**.
-- ⚠️ Linnorden also noticed "an attentive bodyguard" with a [[Maid (Curly Cross Inn)|maid]]. Same person or a different one? Confirm.
+- **Not the same person** as the [[Maid's Bodyguard (Curly Cross Inn)|bodyguard with the maid]] (confirmed).

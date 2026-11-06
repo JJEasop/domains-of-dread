@@ -111,6 +111,7 @@ Reconvening privately over dinner, the party synthesized their tactical intellig
 - [[Stable Boy (Curly Cross Inn)]] — created
 - [[Fishing Brothers (Curly Cross Inn)]] — created
 - [[Maid (Curly Cross Inn)]] — created
+- [[Maid's Bodyguard (Curly Cross Inn)]] — created
 - [[Ireena Kolyana]] — updated: full recovery, drove wagon 1, wolf crit, moved to the inn
 - [[Gertrude (Barovia Monastery Asylum)]] — updated: recovering, lullaby thought, moved to the inn
 - [[Merrick]] — updated: route plan, Bull's Strength, clean-wound observation, moved to the inn

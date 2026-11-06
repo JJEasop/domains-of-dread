@@ -12,7 +12,7 @@ parent: "[[Road to Immol]]"
 
 # Curly Cross Inn
 
-> ⚠️ Spelled "Curley Cross" and "Curly Cross" in [[Summary 7]]. Confirm.
+> Spelling confirmed as **Curly Cross**. "Curley Cross" from [[Summary 7]] is kept as an alias.
 
 ## Overview
 A **fortified crossroads inn** on the [[Road to Immol]], about a day's travel south of the [[Tser Pool Encampment]]. [[Merrick]] chose it as the first night's stop so the party would not camp by the road.
@@ -26,7 +26,8 @@ A **fortified crossroads inn** on the [[Road to Immol]], about a day's travel so
 - [[Innkeeper (Curly Cross Inn)|The innkeeper]] and the [[Stable Boy (Curly Cross Inn)|stable boy]].
 - [[Scholar (Curly Cross Inn)|A scholarly noble]] in the corner, with his [[Scholar's Bodyguard (Curly Cross Inn)|bodyguard]].
 - [[Bard (Curly Cross Inn)|A bard]] in the common room.
-- [[Fishing Brothers (Curly Cross Inn)|Two brothers]] and [[Maid (Curly Cross Inn)|a maid]].
+- [[Fishing Brothers (Curly Cross Inn)|Two brothers]].
+- [[Maid (Curly Cross Inn)|A maid]] with [[Maid's Bodyguard (Curly Cross Inn)|her own bodyguard]], who is not the scholar's.
 - [[Nastazya]], brought in by the party.
 
 ## Events
@@ -43,7 +44,7 @@ A **fortified crossroads inn** on the [[Road to Immol]], about a day's travel so
   - [[Stable Boy (Curly Cross Inn)|Stable boy]]: was unusually **ordered to sleep in the stable** tonight.
   - [[Gertrude (Barovia Monastery Asylum)|Gertrude]] (upstairs): looping a lullaby, "I left my baby lying here to go and gather berries."
   - [[Fishing Brothers (Curly Cross Inn)|Brothers]]: fishing troubles and **disappearances in [[Stillbrook]]**.
-  - [[Maid (Curly Cross Inn)|A maid]]: sewing chores; an attentive bodyguard with her.
+  - [[Maid (Curly Cross Inn)|A maid]]: sewing chores; [[Maid's Bodyguard (Curly Cross Inn)|an attentive bodyguard]] with her.
 - Lucia's *Detect Evil*: **no supernatural Evil**, but **ordinary evil** in four people: the scholar, his bodyguard, the bard and Nastazya.
 - **Full moon is on the threshold.** The party set watches in each room. Silver on hand: Michael's **silver blade** and **one silver crossbow bolt**, plus heated metal as a fallback.
 
