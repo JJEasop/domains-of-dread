@@ -8,6 +8,7 @@ tags:
 aliases:
   - Elder captain
   - Grandpa
+  - Jordy
 location: "[[Tser Pool Encampment]]"
 previous_locations: []
 faction: "Vistani"
@@ -25,3 +26,5 @@ The **male leader/captain** of the Vistani caravan at the [[Tser Pool Encampment
 - Confirmed the nightly **ghost procession** from [[Barovia]] climbs past the waterfall toward [[Castle Ravenloft]].
 - Traded the party **two vardos** and **two draft horses**. After theatrical haggling ("Are you selling me glue?") he accepted wine, a tent, torches, a climber's kit, nails and Pip's **keg of Longbottom leaf**. He refused the silver jewelry box.
 - Showed **boyish mischief** during the deal; a toddler scolded him, "Grandpa, don't be mean."
+- [[Summary 7]]: His caravan is **departing** the [[Tser Pool Encampment]]. On the [[Road to Immol]] the party met **three Vistani scouts** on foot heading north to replace it. Caravan movements are **fluid, not on a fixed schedule**.
+- ⚠️ Where is his caravan going next?

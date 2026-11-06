@@ -2,15 +2,17 @@
 type: npc
 tags:
   - npc
-  - location/barovia
+  - location/curly-cross-inn
   - status/alive
 aliases:
   - Father Merrick
-location: "[[Barovia]]"
+location: "[[Curly Cross Inn]]"
 previous_locations:
   - "[[Barovia Monastery]]"
   - "[[Waterfall Path]]"
   - "[[Monolith Site]]"
+  - "[[Barovia]]"
+  - "[[Tser Pool Encampment]]"
 faction: "[[Barovia Monastery]] clergy"
 status: alive
 destination: "[[Zidenberg]]"
@@ -38,6 +40,13 @@ first_appearance: Summary 1
 - Travels with the party as an escort. [[Andre]] and [[David]] are "technically voluntary" prisoners.
 - His deity is the **Morning Lord**, the local solar god. The party is unsure the god is truly "good."
 - Believes the 787 grave in the [[Barovia Churchyard]] predates the family mausoleum.
+
+## Summary 7: The Road to Immol
+- [[Summary 7]]: Drove **wagon 2** with [[Gertrude (Barovia Monastery Asylum)|Gertrude]], [[Levi]], [[Andre]] and [[David]].
+- Planned the **3-day trip** to [[Immol]] and **argued strongly against roadside camping**: night one at the [[Curly Cross Inn]], night two at a southern village.
+- Cast *Bull's Strength* on Linnorden in the wolf ambush on the [[Road to Immol]].
+- Noticed that [[Nastazya's Brother]]'s wounds were **cut too cleanly to be from wolves**, casting doubt on [[Nastazya]].
+- Shared Room 2 at the inn with [[Andre]] and [[David]].
 
 ## Combat Notes
 - Cast *Bless*, *Prayer* and *Bear's Endurance* (on Michael) in the wolf fight.

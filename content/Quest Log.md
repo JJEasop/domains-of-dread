@@ -18,7 +18,8 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 - [ ] Find out who or what [[The Vampire]] is.
 
 ### Journey to Zidenberg
-- [ ] Choose a route south: through [[Vallaki]] (faster) or [[Immol]] (possibly safer).
+- [ ] Reach [[Immol]] (3 days by the [[Road to Immol]]): night one at the [[Curly Cross Inn]], night two at a southern village. [[Merrick]] says **no roadside camping**.
+- [ ] Survive the night at the [[Curly Cross Inn]]. The **full moon** is on the threshold; watches are set in every room. Silver: Michael's silver blade and one silver crossbow bolt.
 - [ ] Help [[Merrick]] bring [[Andre]] and [[David]] before the [[High Priestess]] in [[Zidenberg]].
 - [ ] Collect the party's payment (500 gp, 1 sp) in Zidenberg.
 
@@ -37,6 +38,7 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 - [ ] Visit the archivist [[Felix Meyer]] in [[Immol]] to look into the events of 787.
 - [ ] Read the **hidden book** found under a bench seat in the new vardo.
 - [ ] Linnorden: discuss divination with [[Vadoma]] at the [[Tser Pool Encampment]].
+- [ ] Study the **hunter's journal** Pip found hidden in [[Nastazya]]'s wagon (beasts, lycanthropes; werewolves need **pure silver**).
 
 ## Open Questions
 
@@ -65,7 +67,18 @@ See [[Tarokka Reading (Summary 6)]].
 - [ ] Who is [[Marushka]], and why does [[Vadoma]] pray we never meet her? Which Vistani are "not of the same mind"?
 - [ ] Is "the Lord's castle" in the Sasha tale [[Castle Ravenloft]]? What treasures are in its crypt?
 
+### Curly Cross Inn (Summary 7)
+- [ ] Who is [[Nastazya]] really? Int 18, unreadable thoughts, ordinary evil, and a hidden hunter's journal in her wagon.
+- [ ] Who killed [[Nastazya's Brother]]? [[Merrick]] says the wounds were too clean for wolves. Was he really her brother?
+- [ ] What does the [[Innkeeper (Curly Cross Inn)|innkeeper]] expect to "start" tonight? Why was the [[Stable Boy (Curly Cross Inn)|stable boy]] ordered to sleep in the stable?
+- [ ] Who are the [[Scholar (Curly Cross Inn)|scholarly noble]], his [[Scholar's Bodyguard (Curly Cross Inn)|bodyguard]] and the [[Bard (Curly Cross Inn)|bard]], all detected as ordinary evil?
+- [ ] What is causing the fishing troubles and **disappearances in [[Stillbrook]]**?
+- [ ] Why does [[Gertrude (Barovia Monastery Asylum)|Gertrude]] keep looping the lullaby "I left my baby lying here to go and gather berries"? What was the "continuous toxicity" she has escaped?
+- [ ] Who is buried in the fresh grave by the [[Road to Immol]]?
+
 ## Completed
+- [x] Choose a route south: through [[Vallaki]] (faster) or [[Immol]] (possibly safer). Chose **Immol** ([[Summary 7]]).
+- [x] Rescue the travellers attacked by wolves on the [[Road to Immol]]. Saved [[Nastazya]]; her brother was already dead ([[Summary 7]]).
 - [x] Buy a wagon and draft animals at the [[Tser Pool Encampment]]. Got two vardos and two draft horses from [[Jordi]] ([[Summary 6]]).
 - [x] Where does the ghost procession go? Past the waterfall toward [[Castle Ravenloft]] ([[Summary 6]]).
 - [x] Evacuate the [[Barovia Monastery]] and bring the caravan safely to [[Barovia]].

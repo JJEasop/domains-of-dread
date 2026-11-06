@@ -2,17 +2,18 @@
 type: npc
 tags:
   - npc
-  - location/tser-pool-encampment
+  - location/curly-cross-inn
   - status/alive
 aliases:
   - Irina
   - Ireena Kolyana
-location: "[[Tser Pool Encampment]]"
+location: "[[Curly Cross Inn]]"
 previous_locations:
   - "[[Barovia]]"
   - "[[Barovia Church]]"
+  - "[[Tser Pool Encampment]]"
 faction: "Unknown"
-status: alive (recovering, under escort)
+status: alive (recovered, under escort)
 destination: "[[Immol]] (her sisters)"
 first_appearance: Summary 1 (mentioned only)
 ---
@@ -39,6 +40,11 @@ Escorted with [[Gertrude (Barovia Monastery Asylum)|Gertrude]], [[Merrick]], [[A
 
 ## Tarokka Reading
 - [[Summary 6]]: [[Vadoma]] read for her at the [[Tser Pool Encampment]]. Her card: **Eight of Pentacles (The Necromancer)**: "a woman hanging over a roaring fire. Find her, and you will find what you seek." See [[Tarokka Reading (Summary 6)]].
+
+## Summary 7: On the Road to Immol
+- [[Summary 7]]: Showed **complete physical recovery**. Drove **wagon 1** on the [[Road to Immol]], with Lucia and Michael in the front cab.
+- In the wolf ambush she **leapt from the wagon** and killed the first wolf with a **critical rapier strike (16 damage)**.
+- Spent the night at the [[Curly Cross Inn]] in Room 3 with Lucia, [[Gertrude (Barovia Monastery Asylum)|Gertrude]] and [[Nastazya]].
 
 ## Connections
 - Her family history may link to the 787 events: see [[Kolyan Vasilyev]] and [[Sophia Kolyana]].

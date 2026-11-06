@@ -52,3 +52,7 @@ Buy a wagon and draft animals for the journey south.
 - **Rauni:** elder woman, caravan leader.
 - **Mortu:** a Vistani who has settled and no longer travels.
 - **Dukkar:** a Vistani man born with the sight who hunts Vistani.
+
+## Summary 7: Departure
+- [[Summary 7]]: The party left south for [[Immol]] in the two vardos (see [[Road to Immol]]).
+- [[Jordi]]'s caravan is **departing**. **Three Vistani scouts** were heading north on foot to replace it, so the camp rotates between caravans rather than on a fixed schedule.
