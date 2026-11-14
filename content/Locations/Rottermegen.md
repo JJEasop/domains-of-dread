@@ -3,8 +3,7 @@ type: location
 tags:
   - location
   - location-type/village
-aliases:
-  - Rotermegan
+aliases: []
 location_type: village
 parent: "Unknown"
 ---

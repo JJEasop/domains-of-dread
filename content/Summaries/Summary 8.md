@@ -55,6 +55,6 @@ Ozrin then remarked that the party was supposed to be asleep. The session ended 
 - [[Curly Cross Inn]] — updated: Summary 8 events
 - [[Immol]] — updated: Burgermeister Theodorus, archive sections
 - [[Vallaki]] — updated: Ozrin's home town, waystone
-- [[Rottermegen]] — updated: alias Rotermegan, a week away
+- [[Rottermegen]] — updated: a week away
 - [[Stillbrook]] — updated: Ozrin considered bypassing it
-- [[Quest Log]] — updated: Ozrin, archive, waystone, Gertrude watch, Wilhelm's remains, drugged-wine and Nastazya questions
+- [[Quest Log]] — updated: Ozrin, Gertrude watch, drugged-wine and Nastazya questions

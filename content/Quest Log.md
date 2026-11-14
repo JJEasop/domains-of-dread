@@ -22,7 +22,6 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 - [ ] Survive the night at the [[Curly Cross Inn]]. The **full moon** is on the threshold; watches are set in every room. Silver: Michael's silver blade and one silver crossbow bolt. *([[Summary 8]]: [[Wilhelm]] rose as a ghast and was destroyed; the night is not over.)*
 - [ ] Decide whether [[Ozrin]] and his bodyguard travel with the party.
 - [ ] Keep someone **awake with [[Gertrude (Barovia Monastery Asylum)|Gertrude]] at all times** ([[Merrick]]'s advice).
-- [ ] Decide where to take [[Wilhelm]]'s remains (dust in a waterskin).
 - [ ] Help [[Merrick]] bring [[Andre]] and [[David]] before the [[High Priestess]] in [[Zidenberg]].
 - [ ] Collect the party's payment (500 gp, 1 sp) in Zidenberg.
 
@@ -32,7 +31,7 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 - [ ] Find out what Ophelia plans for [[Mara Blackford]]'s preserved body.
 
 ### Barovia
-- [ ] Help [[Ismark Kolyanovich]] find an heir and a household minder. The party suggested [[Mary]].
+- [ ] Help [[Ismark Kolyanovich]] find a spouse, and a household minder. The party suggested [[Mary]].
 - [ ] Find Mary's missing daughter, [[Gertrude (Missing Girl of Barovia)|Gertrude]]. Last information we had she was with [[Hawthorne]]'s sisterhood. 
 - [ ] Support Ismark as he organizes Barovia's militia.
 - [ ] [[Granny]]'s Dream Pastries, Granny comes up from one of the farms to the south of Barovia to sell her pastries. They seem to have properties similar to narcotics.  
@@ -41,7 +40,6 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 - [ ] Visit the archivist [[Felix Meyer]] in [[Immol]] to look into the events of 787.
 - [ ] Read the **hidden book** found under a bench seat in the new vardo.
 - [ ] Linnorden: discuss divination with [[Vadoma]] at the [[Tser Pool Encampment]].
-- [ ] Linnorden: copy ***Mage Armor*** for [[Ozrin]] in their spell trade.
 - [ ] Study the **hunter's journal** Pip found hidden in [[Nastazya]]'s wagon (beasts, lycanthropes; werewolves need **pure silver**).
 
 ## Open Questions

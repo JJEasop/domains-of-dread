@@ -3,15 +3,12 @@ type: location
 tags:
   - location
   - location-type/lake
-aliases:
-  - Lake Zarevich
+aliases: []
 location_type: lake
 parent: "Unknown"
 ---
 
 # Lake Zarovich
-
-> Canonical spelling **Zarovich**; "Zarevich" from [[Summary 8]] kept as an alias.
 
 ## Overview
 A lake **north of [[Vallaki]]**. Not visited.
