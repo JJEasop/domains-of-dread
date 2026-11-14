@@ -24,7 +24,7 @@ The unpaved road south from the [[Tser Pool Encampment]] to [[Immol]], a **3-day
 ### Wolf Ambush at the Bend
 Late afternoon, cries for help near a bend: wolves attacking a stranded cart.
 - **Surprise round:** Linnorden's *Silent Image* made the two vardos look like **two 20-foot dire bears** charging. Pip's *Magic Missile* hit for 4. Lucia cast *Bless*. [[Merrick]] cast *Bull's Strength* on Linnorden.
-- A man on the ground was already **dead** (Lucia, Medicine 18): [[Nastazya's Brother]]. A woman on the wagon seat, [[Nastazya]], fell to a wolf bite.
+- A man on the ground was already **dead** (Lucia, Medicine 18): [[Wilhelm|Nastazya's Brother]]. A woman on the wagon seat, [[Nastazya]], fell to a wolf bite.
 - Linnorden's *Hypnotic Pattern* (DC 16) fascinated both active wolves.
 - [[Ireena Kolyana|Ireena]] leapt down and killed the first wolf with a **16-damage rapier crit**. Michael's greatsword (14) finished the second.
 - Linnorden used *Mage Hand* to distract the last wolf; Lucia hit it with her morningstar and Michael struck it down through the spine.

@@ -45,11 +45,13 @@ first_appearance: Summary 1
 - [[Summary 7]]: Drove **wagon 2** with [[Gertrude (Barovia Monastery Asylum)|Gertrude]], [[Levi]], [[Andre]] and [[David]].
 - Planned the **3-day trip** to [[Immol]] and **argued strongly against roadside camping**: night one at the [[Curly Cross Inn]], night two at a southern village.
 - Cast *Bull's Strength* on Linnorden in the wolf ambush on the [[Road to Immol]].
-- Noticed that [[Nastazya's Brother]]'s wounds were **cut too cleanly to be from wolves**, casting doubt on [[Nastazya]].
+- Noticed that [[Wilhelm|Nastazya's Brother]]'s wounds were **cut too cleanly to be from wolves**, casting doubt on [[Nastazya]].
 - Shared Room 2 at the inn with [[Andre]] and [[David]].
 
 ## Summary 8: Watching Nastazya
-- [[Summary 8]]: Offered to help [[Nastazya]] prepare [[Nastazya's Brother|her brother]]'s body for burial and to **keep watch over her**. Lucia joined him.
+- [[Summary 8]]: Offered to help [[Nastazya]] prepare [[Wilhelm|her brother]]'s body for burial and to **keep watch over her**. Lucia joined him.
+- Shared a room with [[Andre]], [[David]] and [[Gertrude (Barovia Monastery Asylum)|Gertrude]]. After the ghast fight he was **deeply asleep and hard to rouse**, like the other clerics; Michael could not tell whether he was **drugged or just exhausted**. The [[Innkeeper (Curly Cross Inn)|innkeeper]] had **glanced toward him** before taking an item from a tray going upstairs.
+- Said Gertrude is **not in immediate danger**, but someone should **stay awake with her at all times**.
 
 ## Combat Notes
 - Cast *Bless*, *Prayer* and *Bear's Endurance* (on Michael) in the wolf fight.

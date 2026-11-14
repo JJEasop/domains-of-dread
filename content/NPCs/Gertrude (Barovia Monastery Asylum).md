@@ -29,6 +29,13 @@ A **comatose girl** who was kept in the asylum at the [[Barovia Monastery]]. She
 - At the [[Curly Cross Inn]] she stayed in bed upstairs in Room 3. Linnorden's *Detect Thoughts* found her **looping a lullaby**: "I left my baby lying here to go and gather berries."
 - 💡 *Suggested:* "Continuous toxicity" implies something at the [[Barovia Monastery]] was keeping her sedated or poisoned.
 
+## Summary 8: Awake in the Night
+- [[Summary 8]]: Slept in her litter in the clerics' room at the [[Curly Cross Inn]].
+- After the ghast fight the party found her **awake**, quietly playing **cat's cradle** with a thread pulled from her dress, while the clerics slept on.
+- **Withdrew** when Lucia asked what she last remembered. Asked **who had sent her**, she **pointed at [[Andre|Father Andre]]**.
+- Lucia noticed her gown was **shredded** and she had **old lines or scars on her wrists**.
+- [[Merrick]]: not in immediate danger, but **someone should stay awake with her at all times**.
+
 ## Concerns
 - The party fears Ophelia's claimed "cure" could be worse than Gertrude's condition. They also speculate that taking her may have contributed to the wolf attack.
 - 💡 *Suggested:* Compare her condition with [[Vivian]], who is catatonic at the [[Sanatorium]].

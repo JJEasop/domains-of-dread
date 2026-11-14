@@ -22,6 +22,7 @@ first_appearance: Summary 8 (mentioned only)
 
 ## Events
 - [[Summary 8]]: [[Ozrin]] said he is travelling to Immol at Theodorus's invitation, his first invitation to research beyond the archive's public library.
+- [[Ozrin]] thinks Linnorden's **waystone** research (see [[Lake Zarovich]]) might interest him and help them get into the archive.
 
-## Hooks
-- ⚠️ [[Sophia Kolyana]] was betrothed to Immol's Burgermeister in 787. Is that Theodorus or a predecessor?
+## Notes
+- **Not** the Burgermeister of Immol to whom [[Sophia Kolyana]] was betrothed in 787.

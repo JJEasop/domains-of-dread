@@ -103,7 +103,7 @@ Reconvening privately over dinner, the party synthesized their tactical intellig
 - [[Rottermegen]] — created (mentioned only)
 - [[Stillbrook]] — created (mentioned only)
 - [[Nastazya]] — created
-- [[Nastazya's Brother]] — created
+- [[Wilhelm|Nastazya's Brother]] — created
 - [[Ozrin]] — created
 - [[Scholar's Bodyguard (Curly Cross Inn)]] — created
 - [[Bard (Curly Cross Inn)]] — created

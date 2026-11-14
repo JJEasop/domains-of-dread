@@ -42,6 +42,10 @@ Travels with the party in "quasi-prisoner" status, "technically voluntary," towa
 - After the wolf ambush on the [[Road to Immol]], went back with Pip, David and a horse to **retrieve [[Nastazya]]'s wagon**.
 - Shared Room 2 at the [[Curly Cross Inn]] with Merrick and David.
 
+## Summary 8: The Curly Cross Inn
+- [[Summary 8]]: Slept in the clerics' room; found **deeply asleep and hard to rouse**, apparently **sedated**.
+- Asked who had sent her, [[Gertrude (Barovia Monastery Asylum)|Gertrude]] **pointed at Andre**.
+
 ## Relationships
 - [[David]]: fellow culpable cleric.
 - [[Ophelia]]: wants revenge.

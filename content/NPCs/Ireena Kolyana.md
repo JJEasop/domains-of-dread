@@ -46,6 +46,12 @@ Escorted with [[Gertrude (Barovia Monastery Asylum)|Gertrude]], [[Merrick]], [[A
 - In the wolf ambush she **leapt from the wagon** and killed the first wolf with a **critical rapier strike (16 damage)**.
 - Spent the night at the [[Curly Cross Inn]] in Room 3 with Lucia, [[Gertrude (Barovia Monastery Asylum)|Gertrude]] and [[Nastazya]].
 
+## Summary 8: Night at the Inn
+- [[Summary 8]]: The [[Innkeeper's Wife (Curly Cross Inn)|innkeeper's wife]] gave her and Michael **drugged wine** with a note, **"Do not drink"**. They didn't.
+- Shared a room with Lucia, Michael, Pip and Linnorden. Was **already awake and armed** when [[Nastazya]] raised the alarm.
+- Checked the perimeter and the [[Stable Boy (Curly Cross Inn)|stable boy]] with Michael, and overheard the innkeepers arguing about "it" and "the children".
+- Saw Nastazya **curtsy** in a lightning flash and then vanish.
+
 ## Connections
 - Her family history may link to the 787 events: see [[Kolyan Vasilyev]] and [[Sophia Kolyana]].
 - Earlier the party briefly suspected her (see [[Andre]]).

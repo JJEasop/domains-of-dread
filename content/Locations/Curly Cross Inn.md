@@ -48,10 +48,21 @@ A **fortified crossroads inn** on the [[Road to Immol]], about a day's travel so
 - Lucia's *Detect Evil*: **no supernatural Evil**, but **ordinary evil** in four people: the scholar, his bodyguard, the bard and Nastazya.
 - **Full moon is on the threshold.** The party set watches in each room. Silver on hand: Michael's **silver blade** and **one silver crossbow bolt**, plus heated metal as a fallback.
 
-### [[Summary 8]]: Dinner Conversations
-- With dinner pending, [[Merrick]] and Lucia stayed with [[Nastazya]] while she prepared her brother's body for burial.
+### [[Summary 8]]: Drugged Wine and a Ghast
+- With dinner pending, [[Merrick]] and Lucia stayed with [[Nastazya]] while she prepared [[Wilhelm]]'s body for burial.
 - Linnorden and Pip spoke with the scholar, now named [[Ozrin]], in **Draconic**. He is from [[Vallaki]] and bound for the [[Immol]] archive.
+- The innkeepers **watched the party closely**; the [[Barkeep (Curly Cross Inn)|man behind the bar]] looked frightened.
+- The [[Innkeeper's Wife (Curly Cross Inn)|innkeeper's wife]] slipped Michael and Ireena a note, **"Do not drink"**. The dark red wine was **drugged with a sedative** ("bitter plant" smell, per [[Pennig]]; the same smell is in the **kitchen**). She signalled the food was safe.
+- The [[Innkeeper (Curly Cross Inn)|innkeeper]] glanced at [[Merrick]], then took an item from a tray going upstairs.
+- Linnorden linked the party with *Message*.
+- **New rooms:** Lucia, Michael, Pip, Linnorden and Ireena in one; the clerics and [[Gertrude (Barovia Monastery Asylum)|Gertrude]] (in her litter) in another; Nastazya and the body in the third.
+- Michael's watch: a **shadow moving down the hallway** and movement in the light under the door.
+- Later a **crash**, running footsteps and knocking: Nastazya said Wilhelm was not dead. He had **risen as a ghast**; Lucia's Greater Turning **reduced him to dust**.
+- The clerics were **sedated and hard to rouse**. Gertrude was awake and pointed at [[Andre]] when asked who sent her.
+- In the kitchen the innkeepers argued: she could not let **"it"** happen; he said **think about the children**.
+- Nastazya **walked out into the storm** and vanished between lightning flashes. Ozrin came in from the road at that moment and remarked that the party was **"supposed to be asleep."**
 
 ## Hooks
 - ⚠️ The innkeeper expects something to "start" tonight, and the stable boy was sent to sleep in the stable.
+- ⚠️ Who drugged the wine, and why? What is the "it" the innkeeper's wife cannot allow?
 - 💡 *Suggested:* The bells, shutters and palisade suggest the inn is used to night attacks.

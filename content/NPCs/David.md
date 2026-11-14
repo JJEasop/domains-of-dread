@@ -34,6 +34,9 @@ A cleric of the [[Barovia Monastery]] held culpable, with [[Andre]], for [[Mara 
 - After the wolf ambush on the [[Road to Immol]], went back with Pip, Andre and a horse to **retrieve [[Nastazya]]'s wagon**.
 - Shared Room 2 at the [[Curly Cross Inn]] with Merrick and Andre.
 
+## Summary 8: The Curly Cross Inn
+- [[Summary 8]]: Slept in the clerics' room; found **deeply asleep and hard to rouse**, apparently **sedated**.
+
 ## Status on the Road
 Travels with the party in "quasi-prisoner" status, "technically voluntary," toward [[Zidenberg]].
 

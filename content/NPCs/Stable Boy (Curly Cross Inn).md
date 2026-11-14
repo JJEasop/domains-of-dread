@@ -21,3 +21,4 @@ The stable boy at the [[Curly Cross Inn]]. Name unknown.
 ## Events
 - [[Summary 7]]: Linnorden's *Detect Thoughts*: he was thinking about being **ordered to sleep only in the stable** tonight, which is unusual for him.
 - ⚠️ Who gave the order, and why tonight?
+- [[Summary 8]]: Michael and Ireena checked on him during the night. He answered the door **sleepy but unharmed**.

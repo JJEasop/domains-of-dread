@@ -22,3 +22,4 @@ The **armed bodyguard** of the [[Ozrin|scholarly noble]] at the [[Curly Cross In
 - [[Summary 7]]: Lucia's *Detect Evil*: **ordinary (lowercase) evil**.
 - **Not the same person** as the [[Maid's Bodyguard (Curly Cross Inn)|bodyguard with the maid]] (confirmed).
 - [[Summary 8]]: His employer is the scholar [[Ozrin]], from [[Vallaki]].
+- Looked **unhappy** when Ozrin mentioned camping in the wilderness to bypass [[Stillbrook]].

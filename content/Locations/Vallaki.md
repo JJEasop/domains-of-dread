@@ -19,3 +19,4 @@ A town west of the [[Gallows Crossroads]] (the faster route to [[Zidenberg]]). T
 
 ## Events
 - [[Summary 8]]: Home of the scholar [[Ozrin]] and his academic family.
+- A **waystone** stands north of Vallaki, across [[Lake Zarovich]] (per Ozrin).
