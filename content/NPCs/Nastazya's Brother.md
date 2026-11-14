@@ -22,3 +22,4 @@ A man found **dead on the ground** beside [[Nastazya]]'s cart during the wolf at
 - [[Summary 7]]: Lucia confirmed him dead (Medicine 18). The party loaded his body onto Nastazya's wagon, which Pip, [[Andre]] and [[David]] brought to the [[Curly Cross Inn]].
 - [[Merrick]] noted his wounds were **cut far too cleanly** for wolf claws or teeth.
 - ⚠️ The summary puts "brother" in quotes. Was he really her brother?
+- [[Summary 8]]: [[Nastazya]] and [[Merrick]] prepared his body for burial at the [[Curly Cross Inn]], with Lucia present.

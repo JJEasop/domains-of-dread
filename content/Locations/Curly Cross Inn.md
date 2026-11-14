@@ -24,7 +24,7 @@ A **fortified crossroads inn** on the [[Road to Immol]], about a day's travel so
 
 ## People
 - [[Innkeeper (Curly Cross Inn)|The innkeeper]] and the [[Stable Boy (Curly Cross Inn)|stable boy]].
-- [[Scholar (Curly Cross Inn)|A scholarly noble]] in the corner, with his [[Scholar's Bodyguard (Curly Cross Inn)|bodyguard]].
+- [[Ozrin|A scholarly noble]] in the corner, with his [[Scholar's Bodyguard (Curly Cross Inn)|bodyguard]].
 - [[Bard (Curly Cross Inn)|A bard]] in the common room.
 - [[Fishing Brothers (Curly Cross Inn)|Two brothers]].
 - [[Maid (Curly Cross Inn)|A maid]] with [[Maid's Bodyguard (Curly Cross Inn)|her own bodyguard]], who is not the scholar's.
@@ -39,7 +39,7 @@ A **fortified crossroads inn** on the [[Road to Immol]], about a day's travel so
   - **Room 3** (one queen, two twins): Lucia, [[Ireena Kolyana|Ireena]], [[Gertrude (Barovia Monastery Asylum)|Gertrude]], [[Nastazya]].
 - Linnorden cast *Detect Thoughts* across the common room:
   - [[Nastazya]]: **Int 18**, thoughts unreadable.
-  - [[Scholar (Curly Cross Inn)|The scholar]]: **Int 17**, **passed his save**.
+  - [[Ozrin|The scholar]]: **Int 17**, **passed his save**.
   - [[Innkeeper (Curly Cross Inn)|Innkeeper]]: **"I wonder what time it's going to start."**
   - [[Stable Boy (Curly Cross Inn)|Stable boy]]: was unusually **ordered to sleep in the stable** tonight.
   - [[Gertrude (Barovia Monastery Asylum)|Gertrude]] (upstairs): looping a lullaby, "I left my baby lying here to go and gather berries."
@@ -47,6 +47,10 @@ A **fortified crossroads inn** on the [[Road to Immol]], about a day's travel so
   - [[Maid (Curly Cross Inn)|A maid]]: sewing chores; [[Maid's Bodyguard (Curly Cross Inn)|an attentive bodyguard]] with her.
 - Lucia's *Detect Evil*: **no supernatural Evil**, but **ordinary evil** in four people: the scholar, his bodyguard, the bard and Nastazya.
 - **Full moon is on the threshold.** The party set watches in each room. Silver on hand: Michael's **silver blade** and **one silver crossbow bolt**, plus heated metal as a fallback.
+
+### [[Summary 8]]: Dinner Conversations
+- With dinner pending, [[Merrick]] and Lucia stayed with [[Nastazya]] while she prepared her brother's body for burial.
+- Linnorden and Pip spoke with the scholar, now named [[Ozrin]], in **Draconic**. He is from [[Vallaki]] and bound for the [[Immol]] archive.
 
 ## Hooks
 - ⚠️ The innkeeper expects something to "start" tonight, and the stable boy was sent to sleep in the stable.

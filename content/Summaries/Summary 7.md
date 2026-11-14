@@ -104,7 +104,7 @@ Reconvening privately over dinner, the party synthesized their tactical intellig
 - [[Stillbrook]] — created (mentioned only)
 - [[Nastazya]] — created
 - [[Nastazya's Brother]] — created
-- [[Scholar (Curly Cross Inn)]] — created
+- [[Ozrin]] — created
 - [[Scholar's Bodyguard (Curly Cross Inn)]] — created
 - [[Bard (Curly Cross Inn)]] — created
 - [[Innkeeper (Curly Cross Inn)]] — created

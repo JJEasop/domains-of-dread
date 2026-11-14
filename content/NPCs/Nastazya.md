@@ -4,7 +4,8 @@ tags:
   - npc
   - location/curly-cross-inn
   - status/alive
-aliases: []
+aliases:
+  - Nastasia
 location: "[[Curly Cross Inn]]"
 previous_locations:
   - "[[Road to Immol]]"
@@ -22,6 +23,9 @@ A woman the party rescued from a wolf attack on the [[Road to Immol]]. She says 
 - [[Summary 7]]: Defended her cart from the wolves until a bite dropped her. Lucia's *Cure Light Wounds* (11 hp) revived her, and she went into **shock** from the rapid healing.
 - Her brother ([[Nastazya's Brother]]) was dead. Her **draft horse fled**. The party walked her to the [[Curly Cross Inn]] and fetched her wagon.
 - Shares **Room 3** with Lucia, [[Ireena Kolyana|Ireena]] and [[Gertrude (Barovia Monastery Asylum)|Gertrude]].
+
+## Summary 8: Preparing the Body
+- [[Summary 8]]: Prepared her brother's body for burial with [[Merrick]]'s help. Lucia joined them, partly to help and partly because the party **would not leave anyone alone with her**.
 
 ## Suspicions
 - Linnorden's *Detect Thoughts*: **Int 18**; her surface thoughts were **unreadable**.

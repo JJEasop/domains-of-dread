@@ -48,6 +48,9 @@ first_appearance: Summary 1
 - Noticed that [[Nastazya's Brother]]'s wounds were **cut too cleanly to be from wolves**, casting doubt on [[Nastazya]].
 - Shared Room 2 at the inn with [[Andre]] and [[David]].
 
+## Summary 8: Watching Nastazya
+- [[Summary 8]]: Offered to help [[Nastazya]] prepare [[Nastazya's Brother|her brother]]'s body for burial and to **keep watch over her**. Lucia joined him.
+
 ## Combat Notes
 - Cast *Bless*, *Prayer* and *Bear's Endurance* (on Michael) in the wolf fight.
 - Killed the second large wolf with **Inflict Wounds**. The party noted this is a dark choice for a cleric of justice.

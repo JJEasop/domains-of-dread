@@ -36,6 +36,7 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 
 ### Research
 - [ ] Visit the archivist [[Felix Meyer]] in [[Immol]] to look into the events of 787.
+- [ ] Get access to the restricted sections of the [[Immol]] archive; each needs separate permission. [[Ozrin]] has been invited by [[Theodorus|Burgermeister Theodorus]].
 - [ ] Read the **hidden book** found under a bench seat in the new vardo.
 - [ ] Linnorden: discuss divination with [[Vadoma]] at the [[Tser Pool Encampment]].
 - [ ] Study the **hunter's journal** Pip found hidden in [[Nastazya]]'s wagon (beasts, lycanthropes; werewolves need **pure silver**).
@@ -71,10 +72,14 @@ See [[Tarokka Reading (Summary 6)]].
 - [ ] Who is [[Nastazya]] really? Int 18, unreadable thoughts, ordinary evil, and a hidden hunter's journal in her wagon.
 - [ ] Who killed [[Nastazya's Brother]]? [[Merrick]] says the wounds were too clean for wolves. Was he really her brother?
 - [ ] What does the [[Innkeeper (Curly Cross Inn)|innkeeper]] expect to "start" tonight? Why was the [[Stable Boy (Curly Cross Inn)|stable boy]] ordered to sleep in the stable?
-- [ ] Who are the [[Scholar (Curly Cross Inn)|scholarly noble]], his [[Scholar's Bodyguard (Curly Cross Inn)|bodyguard]] and the [[Bard (Curly Cross Inn)|bard]], all detected as ordinary evil?
+- [ ] Who are the [[Ozrin|scholarly noble]] (now named **Ozrin**, from [[Vallaki]]; [[Summary 8]]), his [[Scholar's Bodyguard (Curly Cross Inn)|bodyguard]] and the [[Bard (Curly Cross Inn)|bard]], all detected as ordinary evil?
 - [ ] What is causing the fishing troubles and **disappearances in [[Stillbrook]]**?
 - [ ] Why does [[Gertrude (Barovia Monastery Asylum)|Gertrude]] keep looping the lullaby "I left my baby lying here to go and gather berries"? What was the "continuous toxicity" she has escaped?
 - [ ] Who is buried in the fresh grave by the [[Road to Immol]]?
+
+### Curly Cross Inn (Summary 8)
+- [ ] What does [[Ozrin]] know about **"Mist Walkers"**, and how did he recognize Linnorden as one?
+- [ ] ⚠️ The session title mentions a **poison investigation**, but the summary text so far does not cover it.
 
 ## Completed
 - [x] Choose a route south: through [[Vallaki]] (faster) or [[Immol]] (possibly safer). Chose **Immol** ([[Summary 7]]).
