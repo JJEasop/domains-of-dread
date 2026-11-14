@@ -39,11 +39,10 @@ Ozrin then remarked that the party was supposed to be asleep. The session ended 
 - [[Wilhelm]] — updated: renamed from "Nastazya's Brother"; rose as a ghast, destroyed, dust in a waterskin
 - [[Nastazya]] — updated: sent to watch the party, Augury, left into the storm (location Unknown), hair on pillow
 - [[Innkeeper's Wife (Curly Cross Inn)]] — created
-- [[Barkeep (Curly Cross Inn)]] — created
 - [[Theodorus]] — created (mentioned only)
 - [[Forest of Arantellion]] — created (mentioned only)
 - [[Lake Zarovich]] — created (mentioned only): waystone
-- [[Innkeeper (Curly Cross Inn)]] — updated: drugged wine, tray item, argument with his wife
+- [[Innkeeper (Curly Cross Inn)]] — updated: frightened behind the bar, drugged wine, tray item, argument with his wife
 - [[Stable Boy (Curly Cross Inn)]] — updated: checked, unharmed
 - [[Scholar's Bodyguard (Curly Cross Inn)]] — updated: employer named, dislikes camping
 - [[Merrick]] — updated: burial help, possibly drugged, advice on Gertrude

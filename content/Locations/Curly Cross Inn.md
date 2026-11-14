@@ -51,7 +51,7 @@ A **fortified crossroads inn** on the [[Road to Immol]], about a day's travel so
 ### [[Summary 8]]: Drugged Wine and a Ghast
 - With dinner pending, [[Merrick]] and Lucia stayed with [[Nastazya]] while she prepared [[Wilhelm]]'s body for burial.
 - Linnorden and Pip spoke with the scholar, now named [[Ozrin]], in **Draconic**. He is from [[Vallaki]] and bound for the [[Immol]] archive.
-- The innkeepers **watched the party closely**; the [[Barkeep (Curly Cross Inn)|man behind the bar]] looked frightened.
+- The innkeepers **watched the party closely**; the [[Innkeeper (Curly Cross Inn)|innkeeper]] looked frightened behind the bar.
 - The [[Innkeeper's Wife (Curly Cross Inn)|innkeeper's wife]] slipped Michael and Ireena a note, **"Do not drink"**. The dark red wine was **drugged with a sedative** ("bitter plant" smell, per [[Pennig]]; the same smell is in the **kitchen**). She signalled the food was safe.
 - The [[Innkeeper (Curly Cross Inn)|innkeeper]] glanced at [[Merrick]], then took an item from a tray going upstairs.
 - Linnorden linked the party with *Message*.

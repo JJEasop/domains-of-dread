@@ -6,6 +6,7 @@ tags:
   - status/alive
 aliases:
   - Innkeeper
+  - Barkeep
 location: "[[Curly Cross Inn]]"
 previous_locations: []
 faction: "Unknown"
@@ -25,6 +26,7 @@ The keeper of the [[Curly Cross Inn]]. Name unknown.
 
 ## Summary 8: The Drugged Wine
 - [[Summary 8]]: Lucia noticed the innkeepers **watching the party closely**. Michael joked about **insurance fraud**; unconfirmed.
+- Behind the bar he **repeatedly looked toward the party, frightened**, though Lucia could not tell whether he feared the party specifically.
 - The wine his [[Innkeeper's Wife (Curly Cross Inn)|wife]] served Michael and Ireena held a **sedative** with a "bitter plant" smell. [[Pennig]] smelled the **same bitter plant in the kitchen**.
 - **Glanced toward [[Merrick]], then took an unidentified item from the tray** he carried upstairs.
 - Argued with his wife in the kitchen: she could not let **"it"** happen; he told her to **think about the children**.
