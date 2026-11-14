@@ -31,7 +31,7 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 - [ ] Find out what Ophelia plans for [[Mara Blackford]]'s preserved body.
 
 ### Barovia
-- [ ] Help [[Ismark Kolyanovich]] find a spouse, and a household minder. The party suggested [[Mary]].
+- [ ] Help [[Ismark Kolyanovich]] find a spouse, and a household minder. He needs a wife before he can have an heir. The party suggested [[Mary]].
 - [ ] Find Mary's missing daughter, [[Gertrude (Missing Girl of Barovia)|Gertrude]]. Last information we had she was with [[Hawthorne]]'s sisterhood. 
 - [ ] Support Ismark as he organizes Barovia's militia.
 - [ ] [[Granny]]'s Dream Pastries, Granny comes up from one of the farms to the south of Barovia to sell her pastries. They seem to have properties similar to narcotics.  

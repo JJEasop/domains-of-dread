@@ -30,4 +30,4 @@ first_appearance: Summary 4
 - Michael returned the gold chain with a "B" disc to him.
 
 ## Open Needs
-- Urgently needs to find a spouse, and a household minder. The party suggested hiring [[Mary]], mother of the missing girl [[Gertrude (Missing Girl of Barovia)|Gertrude]].
+- Urgently needs to find a **wife**, so that he can have an **heir**, and a household minder. The party suggested hiring [[Mary]], mother of the missing girl [[Gertrude (Missing Girl of Barovia)|Gertrude]].
