@@ -21,7 +21,7 @@ The village at the foot of the mountain below the [[Barovia Monastery]]. The [[C
 ## Places and People
 - [[Barovia Church]], [[Barovia Churchyard]], the Burgermeister's estate
 - [[Billdrath]] (Mercantile), [[Geralt]] (tailor), [[Doctor Donovich]], a blacksmith (sold the party two pounds of nails for 1 gp) and an innkeeper (both unnamed)
-- Leaders: [[Ismark Kolyanovich]] (current Burgermeister); his father, the late [[Burgermeister of Barovia]]
+- Leaders: [[Ismark Kolyanovich]] (current Burgermeister); his father, the late [[Late Burgermeister of Barovia|Burgermeister of Barovia]]
 
 ## Events
 - A vampire is stalking the town: see [[The Vampire]], [[Ireena Kolyana]].

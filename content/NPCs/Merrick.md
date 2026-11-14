@@ -35,7 +35,7 @@ first_appearance: Summary 1
 
 ## Summary 4–5: Barovia and the Road
 - Made holy water and led the restoration ritual that saved [[Ireena Kolyana]]. Afterward, exhausted, he gave the party a **large coin stamped with Zidenberg's sun** as a line of credit, to be kept safe and returned.
-- Warded the church for the night, and officiated the [[Burgermeister of Barovia]]'s funeral because Alexei is inexperienced.
+- Warded the church for the night, and officiated the [[Late Burgermeister of Barovia|Burgermeister of Barovia]]'s funeral because Alexei is inexperienced.
 - Will place **protective wards on the wagon** carrying Ireena and [[Gertrude (Barovia Monastery Asylum)|Gertrude]].
 - Travels with the party as an escort. [[Andre]] and [[David]] are "technically voluntary" prisoners.
 - His deity is the **Morning Lord**, the local solar god. The party is unsure the god is truly "good."

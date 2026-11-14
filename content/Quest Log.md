@@ -14,7 +14,7 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 ## Active Quests
 
 ### Protect Ireena
-- [ ] Get [[Ireena Kolyana]] to safety. The late [[Burgermeister of Barovia]] was asking [[Vallaki]]'s Burgermeister for protection for her.
+- [ ] Get [[Ireena Kolyana]] to safety. The late [[Late Burgermeister of Barovia|Burgermeister of Barovia]] was asking [[Vallaki]]'s Burgermeister for protection for her.
 - [ ] Find out who or what [[The Vampire]] is.
 
 ### Journey to Zidenberg

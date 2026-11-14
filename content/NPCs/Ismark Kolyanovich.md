@@ -19,7 +19,7 @@ first_appearance: Summary 4
 > Also spelled Izmark and Esmark in the session summaries (kept as aliases).
 
 ## Overview
-**The current Burgermeister of [[Barovia]].** Son of the late [[Burgermeister of Barovia]] and brother of [[Ireena Kolyana]]. He succeeded his father after the murder, before the party left Barovia.
+**The current Burgermeister of [[Barovia]].** Son of the late [[Late Burgermeister of Barovia|Burgermeister of Barovia]] and brother of [[Ireena Kolyana]]. He succeeded his father after the murder, before the party left Barovia.
 
 ## Events
 - Left a hasty note under the church door begging for help for Ireena.

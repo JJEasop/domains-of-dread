@@ -23,7 +23,7 @@ first_appearance: Summary 1 (mentioned only)
 > Also spelled Irina in some session summaries (kept as an alias).
 
 ## Overview
-The **daughter of the [[Burgermeister of Barovia]]** and sister of [[Ismark Kolyanovich]]. A vampire bit her twice. Per local lore she had to avoid a third bite across **three consecutive nights**. The third night passed unbitten, her colour returned, and she is recovering, though tired, grieving and disoriented without her home.
+The **daughter of the [[Late Burgermeister of Barovia|Burgermeister of Barovia]]** and sister of [[Ismark Kolyanovich]]. A vampire bit her twice. Per local lore she had to avoid a third bite across **three consecutive nights**. The third night passed unbitten, her colour returned, and she is recovering, though tired, grieving and disoriented without her home.
 
 ## Vampire Attacks
 - Two small puncture marks on her neck, identified by Linnorden. See [[The Vampire]].

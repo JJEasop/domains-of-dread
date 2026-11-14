@@ -15,7 +15,7 @@ The churchyard of [[Barovia]], which holds the Burgermeister's family mausoleum.
 ## Features
 - The exhumed **787 grave** of [[Kolyan Vasilyev]]: coffin mostly decayed, body missing, soil recently displaced.
 - [[Sophia Kolyana]] is interred nearby.
-- The family mausoleum, where the [[Burgermeister of Barovia]] was laid to rest.
+- The family mausoleum, where the [[Late Burgermeister of Barovia|Burgermeister of Barovia]] was laid to rest.
 
 ## Hooks
 - Who took Kolyan's body, and why now?

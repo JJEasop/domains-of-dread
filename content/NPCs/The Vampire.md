@@ -19,7 +19,7 @@ An unidentified vampire stalking [[Ireena Kolyana]] in [[Barovia]]. **Tall, gaun
 ## Events
 - Fed on [[Ireena Kolyana]], leaving puncture marks on her neck.
 - Tried twice to enter the [[Barovia Church]] and was repelled by the wards with an electrical "zap." Appeared at a window, claws dug into the sill, and silently mouthed **"You will regret."**
-- Murdered the [[Burgermeister of Barovia]], then searched Ireena's room.
+- Murdered the [[Late Burgermeister of Barovia|Burgermeister of Barovia]], then searched Ireena's room.
 
 ## Notes
 - Killed the Burgermeister while he wrote an appeal to [[Vallaki]] for [[Ireena Kolyana]]. Claw marks resemble **human fingers, not animal claws**.
