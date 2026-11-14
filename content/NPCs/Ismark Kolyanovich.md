@@ -8,8 +8,9 @@ aliases:
   - Izmark
   - Esmark
 location: "[[Barovia]]"
-faction: "Barovia militia / Burgermeister's family"
+faction: "Burgermeister of Barovia / Barovia militia"
 status: alive
+role: Burgermeister of Barovia
 first_appearance: Summary 4
 ---
 
@@ -18,7 +19,7 @@ first_appearance: Summary 4
 > Also spelled Izmark and Esmark in the session summaries (kept as aliases).
 
 ## Overview
-Son and **heir** of the [[Burgermeister of Barovia]], and brother of [[Ireena Kolyana]]. After his father's murder he became leader of Barovia.
+**The current Burgermeister of [[Barovia]].** Son of the late [[Burgermeister of Barovia]] and brother of [[Ireena Kolyana]]. He succeeded his father after the murder, before the party left Barovia.
 
 ## Events
 - Left a hasty note under the church door begging for help for Ireena.

@@ -12,7 +12,7 @@ first_appearance: Summary 3 (mentioned only)
 # Burgermeister of Barovia
 
 ## Overview
-Father of [[Ismark Kolyanovich]] and [[Ireena Kolyana]]. Murdered overnight in his study while writing to the Burgermeister of [[Vallaki]] for protection for his daughter. His given name is not recorded.
+Father of [[Ismark Kolyanovich]] and [[Ireena Kolyana]]. Murdered overnight in his study while writing to the Burgermeister of [[Vallaki]] for protection for his daughter. His given name is not recorded. Succeeded by his son, [[Ismark Kolyanovich]], the current Burgermeister.
 
 ## The Murder
 - **Forearm bruising** from a struggle and a **torn throat**.

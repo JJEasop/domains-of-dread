@@ -26,7 +26,7 @@ The party's open tasks and unanswered questions. Tick a box (`- [x]`) when somet
 - [ ] Collect the party's payment (500 gp, 1 sp) in Zidenberg.
 
 ### Ophelia and the Monastery
-- [ ] Watch for [[Ophelia]]'s reply to the party's letter. It comes through the Burgermeister of [[Barovia]].
+- [ ] Watch for [[Ophelia]]'s reply to the party's letter. It comes through the Burgermeister of [[Barovia]], [[Ismark Kolyanovich|Ismark]].
 - [ ] Parley with Ophelia once [[Gertrude (Barovia Monastery Asylum)|Gertrude]] can consent.
 - [ ] Find out what Ophelia plans for [[Mara Blackford]]'s preserved body.
 
